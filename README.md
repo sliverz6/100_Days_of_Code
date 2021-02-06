@@ -5,3 +5,4 @@
 
 # Note
 - Day 1 - Working with Variable in Python to Manage Data
+- Day 2 - Understanding Data Types and How to Manipulate Strings

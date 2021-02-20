@@ -8,3 +8,5 @@
 - Day 2 - Understanding Data Types and How to Manipulate Strings
 - Day 3 - Control Flow and Logical Operators
 - Day 4 - Randomization and Python Lists
+- Day 5 - Pyhton Loops
+- Day 6 - Functions

@@ -10,3 +10,4 @@
 - Day 4 - Randomization and Python Lists
 - Day 5 - Pyhton Loops
 - Day 6 - Functions
+- Day 7 - Hangman

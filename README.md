@@ -11,3 +11,4 @@
 - Day 5 - Pyhton Loops
 - Day 6 - Functions
 - Day 7 - Hangman
+- Day 8 - Functions
